@@ -5,7 +5,7 @@
 
 var Skeleton = require('./skeleton/Skeleton.vue');
 new Vue({
-  el: '#app',
+  el: '#et-start',
  //store: store,
   components: {
    
