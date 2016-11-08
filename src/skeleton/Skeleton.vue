@@ -2,6 +2,7 @@
 <div>
  
   <div id="awrap">
+  <center> <img src="./assets/logo.png" width="100" class="mt2"></center>
     <h2 class="et-title mt4">testing skeleton</h2>
     <div class="et-background-accent et-white-text p2">
       <slot name="testslot">I want this replaced</slot>
@@ -15,7 +16,7 @@
 </div>
 </template>
 <script>
-//import SovMenu from './components/SovMenu.vue'
+
 export default {
 data () {
 return {
