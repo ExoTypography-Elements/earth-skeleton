@@ -1,4 +1,5 @@
 //import Vue from 'vue'
+import Eqcss from 'eqcss'
 //require('./et/et.styl');
 // Import the app's store
 //import store from './vuex/store'
